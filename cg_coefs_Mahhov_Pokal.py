@@ -1,9 +1,8 @@
 #============================================================================
-# Name            : compphys_cg.py
-# Method          : Vandan Pokal
-# Code/Algorithms : Peter Mahhov
-# Date Created    : 12.12.2020
-# Description     : Calculating Clebsh-Gordan Coefficients for a set of particles with spins
+# Name                      : cg_coefs_Mahhov_Pokal.py
+# Code, Algorithms, Method  : Peter Mahhov and Vandan Pokal
+# Date Created              : 12.12.2020
+# Description               : Calculating Clebsh-Gordan Coefficients for a set of particles with spins
 #============================================================================
 
 import numpy as np
